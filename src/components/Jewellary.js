@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
+
+
 
 export default function Jewellary() {
   return (
-    <div>
-      
-    </div>
-  )
+   <>
+   <div><h1>this is jewellary portion</h1></div>
+   </>
+  );
 }
