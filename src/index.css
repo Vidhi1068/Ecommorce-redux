@@ -13,7 +13,13 @@ code {
 }
 
 body {
-  background-image: url("/public/imgs/bg.avif");
+  /* background-image: url("/public/imgs/bglast.jpg"); */
+ background: rgb(242,242,242);
+background: linear-gradient(90deg, rgba(242,242,242,1) 0%, rgba(201,199,247,1) 50%, rgba(148,201,185,1) 100%);
   background-repeat: no-repeat;
-  background-size: 101% 103vh;
+  background-size: 101% 311vh;
+}
+
+body.overlay{
+  background-color: darkseagreen;
 }

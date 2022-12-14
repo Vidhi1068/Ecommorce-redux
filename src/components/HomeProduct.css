@@ -1,0 +1,30 @@
+.cards {
+}
+
+/* .card-img-top {
+    width: 37%;
+    margin: auto;
+} */
+
+.img {
+  max-width: 154px;
+  margin: 10px auto;
+}
+
+.container {
+  overflow: scroll;
+  background-color: #99bbf200;
+  box-shadow: 3px -2px 20px 4px #c59fac;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 95rem;
+}
+/* .h5, h5 {
+    font-size: 14px;
+} */
+
+Button {
+}
