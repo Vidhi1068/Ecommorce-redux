@@ -1,4 +1,15 @@
 .logo {
   width: 20%;
 }
+.navbar-expand-lg .navbar-nav {
+  flex-direction: row;
+  display: contents;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  justify-content: space-around;
+}
+
 

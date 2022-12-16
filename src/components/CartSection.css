@@ -1,0 +1,43 @@
+svg {
+  vertical-align: middle;
+  position: relative;
+}
+
+.cartbutton {
+  cursor: pointer;
+  position: absolute;
+  right: 16px;
+  top: 35px;
+  font-size: small;
+  border-radius: 15px;
+  font-size: x-small;
+  color: red;
+  font-family: fantasy;
+}
+
+.cartimg {
+    height: 208px;
+    border-radius: 21px;
+    width: 241px;
+}
+
+.carttitle{
+
+    font-size: x-large;
+    font-family: serif;
+    color: #1421ff;
+    text-shadow: -1px 0px 5px #526d9b;
+}
+
+.cartprice{
+
+
+    color: red;
+    font-size: x-large;
+    font-family: auto;
+
+}
+
+.buttonforcart{
+
+}
